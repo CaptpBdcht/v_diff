@@ -1,0 +1,14 @@
+**/build/
+**/dist/
+**/nbproject/
+**Makefile
+**.dep.inc
+
+**/bin/
+**/obj/
+**.cbp
+**.depend
+**.layout
+
+**.idea
+**CMakeLists.txt
